@@ -1,4 +1,4 @@
-package br.ufal.ic.easy.test;
+package br.ufal.ic.easy.example;
 
 import org.junit.Test;
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-<project name="teste-1" basedir="." default="main">
+<project name="example" basedir="." default="main">
 
     <property name="main.src.dir" value="src/main/java"/>
     <property name="test.src.dir" value="src/test/java"/>
@@ -7,7 +7,7 @@
     <property name="test.build.dir" value="${build.dir}/test"/>
     <property name="jar.dir" value="${build.dir}/jar"/>
     <property name="lib.dir" value="lib"/>
-    <property name="main-class" value="br.ufal.ic.easy.test.Main"/>
+    <property name="main-class" value="br.ufal.ic.easy.example.Main"/>
 
     <path id="classpath">
 
